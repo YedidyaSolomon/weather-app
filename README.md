@@ -4,22 +4,14 @@ A responsive weather application built with React and Vite that provides real-ti
 
 ## ✨ Features
 
-- **🌍 Global Weather Search** - Get weather data for any city worldwide
-- **📱 Fully Responsive** - Works perfectly on mobile, tablet, and desktop
-- **🎨 Modern UI Design** - Beautiful gradient backgrounds and smooth animations
-- **⚡ Fast Performance** - Built with Vite for lightning-fast load times
-- **🌡️ Detailed Weather Info** - Temperature, humidity, wind speed, and weather conditions
-- **🎭 Dynamic Weather Icons** - Animated icons that change based on weather conditions
-- **🔍 Instant Search** - Real-time city search with beautiful UI feedback
+- **Global Weather Search** - Get weather data for any city worldwide
+- **Fully Responsive** - Works perfectly on mobile, tablet, and desktop
+- **Modern UI Design** - Beautiful gradient backgrounds and smooth animations
+- **Fast Performance** - Built with Vite for lightning-fast load times
+- **Detailed Weather Info** - Temperature, humidity, wind speed, and weather conditions
+- **Dynamic Weather Icons** - Animated icons that change based on weather conditions
+- **Instant Search** - Real-time city search with beautiful UI feedback
 
-
-## 📸 Screenshots
-
-### Desktop View
-![Desktop](https://via.placeholder.com/600x400/667eea/ffffff?text=Desktop+View)
-
-### Mobile View
-![Mobile](https://via.placeholder.com/300x600/667eea/ffffff?text=Mobile+View)
 
 ## 🛠️ Technologies Used
 
